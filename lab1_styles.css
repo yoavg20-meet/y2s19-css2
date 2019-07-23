@@ -16,3 +16,14 @@ p {
 a {
     color:red;
 }
+a:hover {
+ background-color: yellow;
+}
+/*mouse over link*/
+#important_paragraph:hover{
+	background: black;
+	font-size: 40px;
+}
+.less_important_paragraphs:hover{
+	background: blue;
+}

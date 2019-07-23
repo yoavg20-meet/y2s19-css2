@@ -1,5 +1,7 @@
 body {
     margin: 0;
+    text-align: center;
+    margin: 0 auto;
 }
 
 h1 {
@@ -8,6 +10,7 @@ h1 {
     text-align: center;
     background-color: blue;
     opacity: .5;
+    text-align: center;
 }
 
 p {
@@ -16,29 +19,38 @@ p {
     background-color: lightgreen;
     opacity: .5;
     width: 60%;
+    text-align: center;
+    margin: 0 auto;
 }
 
 a {
     color:red;
     background-color: pink;
     opacity: .5;
+    text-align: center;
 }
 
 span {
 	background-color: yellow;
     opacity: 1;	
+    text-align: center;
+    margin: 0 auto;
 }
 
 form {
 	height: 200px;
 	width: 400px;
 	background-color: orange;
-    opacity: .9;	
+    opacity: .9;
+    text-align: center;	
+    margin: 0 auto;
 }
 
 input {
 	background-color: purple;
     opacity: 1;
+    text-align: center;
+    margin: 0 auto;
 }
 
 div {
@@ -46,5 +58,7 @@ div {
 	width: 400px;
 	background-color: blue;
     opacity: .7;
+    text-align: center;
+    margin: 0 auto;
     	
 }
