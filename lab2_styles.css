@@ -13,7 +13,7 @@ h1 {
     text-align: center;
 }
 
-p {
+p { 
     color: green;
     font-size: 24pt;
     background-color: lightgreen;
@@ -61,4 +61,10 @@ div {
     text-align: center;
     margin: 0 auto;
     	
+}
+
+div p{
+    position: relative;
+    left: 100px;
+    top: 650px;
 }
